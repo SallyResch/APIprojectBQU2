@@ -40,3 +40,4 @@ C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\refint\A
 C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\APIprojectBQU.pdb
 C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\APIprojectBQU.genruntimeconfig.cache
 C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\ref\APIprojectBQU.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\APIprojectBQU.sourcelink.json
