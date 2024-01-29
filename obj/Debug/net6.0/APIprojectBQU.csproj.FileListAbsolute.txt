@@ -41,3 +41,11 @@ C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\APIproje
 C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\APIprojectBQU.genruntimeconfig.cache
 C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\ref\APIprojectBQU.dll
 C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\obj\Debug\net6.0\APIprojectBQU.sourcelink.json
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sally\OneDrive\Dokument\Kodning\APIprojectBQU\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
