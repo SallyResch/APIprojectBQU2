@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIprojectBQU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e3fdbf0159f264166279eb77638e9b0d40fcc65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5364a5aae188285dd9203e81280e49e9fd2c6e4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIprojectBQU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIprojectBQU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
